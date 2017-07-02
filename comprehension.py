@@ -1,3 +1,6 @@
+# It's a very simple guessing game
+
+
 import random  # Import module random
 
 guessesTaken = 0  # Assign 0 to guessesTaken variable
